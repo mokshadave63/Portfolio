@@ -1,0 +1,16 @@
+export const personalData = {
+  name: "MOKSHA DAVE",
+  profile: '/dp.jpg',
+  designation: "Cybersecurity Analyst and Web Developer",
+  description: "My name is MOKSHA DAVE. I am a passionate and driven cybersecurity and web development professional. With a strong foundation in securing digital assets and building scalable web applications, I thrive on solving complex challenges. I am a quick learner with a self-driven attitude, always exploring new technologies to enhance security and efficiency. My expertise spans JavaScript for web development and various security practices to safeguard systems against threats. I am eager to contribute to projects that align with my skills in cybersecurity and web development, ensuring robust and secure digital experiences.",
+  email: 'mokshadave63@gmail.com',
+  phone: '+919974889724',
+  github: 'https://github.com/mokshadave63',
+  facebook: '',
+  linkedIn: 'https://www.linkedin.com/in/moksha-dave/',
+  twitter: 'x.com/MokshaDave63',
+  stackOverflow: '',
+  leetcode: "",
+  devUsername: "",
+  resume: "https://drive.google.com/file/d/1QRI4TcS-TEz1Hd6CN_QsZkJnGUAvEUXV/view?usp=sharing",
+}
